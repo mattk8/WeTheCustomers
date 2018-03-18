@@ -9,4 +9,8 @@ Projects in the repository will be called PubProsals <?>, entries can range from
   2. Formal legal language, and 
   3. Individual lines of hard legislative "code" that program legislative smart contracts. 
 
+## Index
+* Wyoming Blockchain & Digital Asset Laws (LINK)
+* 
+
 See us at: [WeTheCustomers.us](http://WeTheCustomers.us)
