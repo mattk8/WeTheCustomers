@@ -6,4 +6,4 @@ We aim to put more power into the hands of citizens by developing a public polic
 
 Projects in the repository will be called PubProsals <?>, entries can range from fully developed proposals to individual lines of "code" that can be inserted into different pieces of legislation. Each entry will have two components: 1. An abstract outlining the spirit of the law, and 2. Individual lines of hard legislative "code" that program legislative smart contracts. 
 
-See us at: [WeTheCustomers.us](http://WeTheCustomers)
+See us at: [WeTheCustomers.us](http://WeTheCustomers.us)
