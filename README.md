@@ -10,6 +10,7 @@ Projects in the repository will be called PubProsals <?>, entries can range from
   3. Individual lines of hard legislative "code" that program legislative smart contracts. 
 
 ## Index
+* Policy Node Example (LINK)
 * Wyoming Blockchain & Digital Asset Laws (LINK)
 * 
 
