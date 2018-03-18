@@ -13,9 +13,8 @@ Look up all five bills at Wyoming.gov for further details.
 
 Source (https://media.consensys.net/wyoming-passes-5-pro-blockchain-laws-points-the-way-in-digital-asset-regulation-6fae9e07d129)
 
-Each of these 5 laws would be a PupProsal. 
+Each of these 5 laws could exemplify a "PubProsal". 
 The PubProsals would consist of blocks, and blocks could be composed of other blocks. 
 The root of every block and stack/assemblance of blocks would be codes of law. 
-
 
 
