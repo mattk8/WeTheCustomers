@@ -16,4 +16,5 @@ Projects in the repository will be called PubProsals (or bills), entries can ran
 * 
 
 View our CL+B Hackathon slide deck: https://docs.google.com/presentation/d/1QMar3v0Y2ue95j3FHVtx_ExCUXwPmYcC5iLYqRAPXUY/edit#slide=id.p 
+
 See us at: [WeTheCustomers.us](http://WeTheCustomers.us)
