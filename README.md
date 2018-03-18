@@ -5,7 +5,7 @@ Our project seeks to establish a platform for citizens to share, develop, promot
 We aim to put more power into the hands of citizens by developing a public policy platform, modeled after GitHub, to serve as a repository for public policy ideas and initiatives. Here users can 
 participate in the legislative process by contributing to laws that are being developed in the repository, hacking together ideas from other policy proposals, or drafting original legislation. This will demistify the policymaking process by giving average citizens the tools and templates to draft policies that could be accepted by local, state and federal code of law without the need for a professional to write the "legalese". 
 
-Projects in the repository will be called PubProsals <?>, entries can range from fully developed proposals to individual lines of "code" that can be inserted into different pieces of legislation. Each entry will have three components: 
+Projects in the repository will be called PubProsals (or bills), entries can range from fully developed proposals to individual lines of "code" that can be inserted into different pieces of legislation. Each entry will have three components: 
   1. An abstract outlining the spirit of the law, 
   2. Formal legal language, and 
   3. Individual lines of hard legislative "code" that program legislative smart contracts. 
