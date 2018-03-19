@@ -1,8 +1,13 @@
+
+
+
 Be it enacted by the Senate and House of Representa- 
 tives of the United States of America in Congress assembled, 
+
 SECTION 1. SHORT TITLE.
 This Act may be cited as the ‘‘Fix NICS Act 
 of 2017’’.
+
 SEC. 2. ACCOUNTABILITY FOR FEDERAL DEPARTMENTS 
 AND AGENCIES.
 Section 103 of the Brady Handgun Violence Preven- 
@@ -11,8 +16,10 @@ tion Act (34 U.S.C. 40901) is amended—
 
     (1) in subsection (e)(1), by adding at the end
 the following:
+
       ‘‘(F) SEMIANNUAL CERTIFICATION AND
     REPORTING.—
+    
          ‘‘(i) IN GENERAL.—The head of each
       Federal department or agency shall submit
       a semiannual written certification to the
@@ -20,10 +27,12 @@ the following:
       department or agency is in compliance
       with the record submission requirements
       under subparagraph (C).
+      
          ‘‘(ii) SUBMISSION DATES.—The head
       of a Federal department or agency shall
       submit a certification to the Attorney Gen-
       eral under clause (i)—
+      
             ‘‘(I) not later than July 31 of
           each year, which shall address all rel-
           evant records, including those that
@@ -43,28 +52,33 @@ the following:
           riod beginning on July 1 of the pre-
           vious year and ending on December
           31 of the previous year.
+          
         ‘‘(iii) CONTENTS.—A certification re-
       quired under clause (i) shall state, for the
       applicable period—
+      
           ‘‘(I) the total number of records
         of the Federal department or agency
         demonstrating that a person falls
         within one of the categories described
         in subsection (g) or (n) of section 922
         of title 18, United States Code;
+        
           ‘‘(II) for each category of records
         described in subclause (I), the total
         number of records of the Federal de-
         partment or agency that have been
         provided to the Attorney General; and
+        
           ‘‘(III) the efforts of the Federal
         department or agency to ensure com-
-        
         plete and accurate reporting of rel-
         evant records, including efforts to
         monitor compliance and correct any
         reporting failures or inaccuracies.
+      
       ‘‘(G) IMPLEMENTATION PLAN.—
+        
         ‘‘(i) IN GENERAL.—Not later than 1
       year after the date of enactment of this
       subparagraph, the head of each Federal
@@ -82,24 +96,29 @@ the following:
       vidual described in subsection (g) or (n) of
       section 922 of title 18, United States
       Code.
+      
         ‘‘(ii) BENCHMARK REQUIREMENTS.—
       Each plan established under clause (i)
       shall include annual benchmarks to enable
-      
       the Attorney General to assess implemen-
       tation of the plan, including—
+      
           ‘‘(I) qualitative goals and quan-
         titative measures;
+        
           ‘‘(II) measures to monitor inter-
         nal compliance, including any report-
         ing failures and inaccuracies;
+        
           ‘‘(III) a needs assessment, in-
         cluding estimated compliance costs;
         and
+        
           ‘‘(IV) an estimated date by which
         the Federal department or agency will
         fully comply with record submission
         requirements under subparagraph (C).
+        
         ‘‘(iii) COMPLIANCE DETERMINA-
       TION.—Not later than the end of each fis-
       cal year beginning after the date of the es-
@@ -170,17 +189,4 @@ CONTINUE @ PAGE 8
 https://www.cornyn.senate.gov/sites/default/files/Fix%20NICS%20Act%20Bill%20Text.pdf 
 
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   
